@@ -1,0 +1,17 @@
+[
+  {
+    "StockName": "Google",
+    "NumOfShare": 4,
+    "Price": 100.0
+  },
+  {
+    "StockName": "Amazon",
+    "NumOfShare": 7,
+    "Price": 100.0
+  },
+  {
+    "StockName": "Flipkart",
+    "NumOfShare": 5,
+    "Price": 100.0
+  }
+]
